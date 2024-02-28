@@ -4,6 +4,6 @@ pandas
 yfinance
 requests
 bs4
-newsapi
+newsapi-python
 mplfinance
 matplotlib
