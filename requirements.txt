@@ -4,6 +4,6 @@ pandas
 yfinance
 requests
 bs4
-newsapi-python == 0.2.7
+newsapi == 0.2.7
 mplfinance
 matplotlib
