@@ -1,5 +1,5 @@
 import streamlit as st
-from PIL import Image
+#from PIL import Image
 from streamlit_option_menu import option_menu
 import plotly.graph_objs as go
 import pandas as pd
@@ -32,9 +32,9 @@ st.markdown("""
 
 
 #..uploading logo pic....
-uploaded_image = (r"stox_logo2.png")
-image = Image.open(uploaded_image)
-#st.image(image, use_column_width=None)
+#uploaded_image = (r"stox_logo2.png")
+#image = Image.open(uploaded_image)
+st.image("stox_logo2.png", caption='')
 #..squeezing/insering logo image using columns
 col1, col2, col3,col4 = st.columns([1,1.5,2,7])
 with col1:
