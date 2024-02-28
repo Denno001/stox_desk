@@ -34,7 +34,7 @@ st.markdown("""
 #..uploading logo pic....
 #uploaded_image = (r"stox_logo2.png")
 #image = Image.open(uploaded_image)
-st.image("stox_logo2.png", caption='')
+#st.image("stox_logo2.png", caption='')
 #..squeezing/insering logo image using columns
 col1, col2, col3,col4 = st.columns([1,1.5,2,7])
 with col1:
