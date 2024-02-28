@@ -6,6 +6,5 @@ yfinance
 requests
 bs4
 newsapi
-datetime
 mplfinance
 matplotlib
