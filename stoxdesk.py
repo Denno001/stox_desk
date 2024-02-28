@@ -1,5 +1,5 @@
 import streamlit as st
-from Pillow import Image
+from PIL import Image
 from streamlit_option_menu import option_menu
 import plotly.graph_objs as go
 import pandas as pd
