@@ -27,9 +27,9 @@ st.markdown("""
         """, unsafe_allow_html=True)
 
 #..API keys...
+av_api_key = st.secrets['av_api_key']
 
-
-
+news_api_key = st.secrets['news_api_key]
 
 #..uploading logo pic....
 #uploaded_image = (r"stox_logo2.png")
