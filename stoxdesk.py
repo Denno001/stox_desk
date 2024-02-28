@@ -32,7 +32,7 @@ st.markdown("""
 
 
 #..uploading logo pic....
-uploaded_image = (r"c:\Users\denno\Desktop\stox_logo2.png")
+uploaded_image = (r"stox_logo2.png")
 image = Image.open(uploaded_image)
 #st.image(image, use_column_width=None)
 #..squeezing/insering logo image using columns
