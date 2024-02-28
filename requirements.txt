@@ -1,6 +1,6 @@
 PIL
 streamlit_option_menu
-plotly.graph_objs
+plotly
 pandas
 yfinance
 requests
@@ -8,4 +8,4 @@ bs4
 newsapi
 datetime
 mplfinance
-matplotlib.pyplot
+matplotlib
