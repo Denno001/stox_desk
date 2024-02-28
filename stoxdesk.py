@@ -38,7 +38,7 @@ st.image("stox_logo2.png", caption='')
 #..squeezing/insering logo image using columns
 col1, col2, col3,col4 = st.columns([1,1.5,2,7])
 with col1:
-    st.image(image,use_column_width=None)
+    st.image("stox_logo2.png",use_column_width=None)
 with col2:
     st.write('### Stocks Desk')
 with col3:
