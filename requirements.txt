@@ -1,4 +1,4 @@
-Pillow
+PIL
 streamlit_option_menu
 plotly
 pandas
