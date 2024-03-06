@@ -16,3 +16,4 @@ Risk Management: By offering screening tools and financial data, the app assist 
 Education: stocks desk provides educational resources and tools to help users learn about investing, trading strategies, and financial concepts, empowering them to make more informed decisions and improve their financial literacy.
 
 ## How Does the App Work?
+[The image below show the front page which includes a real time stocks market scanner, search box, ytd indices charts and market headlines](![stox1](https://github.com/Denno001/stox_desk/assets/121600705/d9175f57-4ebe-4e34-8c5d-3a630f861c74)
