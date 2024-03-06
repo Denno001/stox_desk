@@ -26,4 +26,9 @@ Below the fundamental data, is the company profile with a brief infomation of th
 ![stox3](https://github.com/Denno001/stox_desk/assets/121600705/d4b68f0e-a0f7-401a-bfc4-c0fa50e9788d)
 ![stox4](https://github.com/Denno001/stox_desk/assets/121600705/909e5a65-7a7a-421a-9dd2-bfb1fea2e7a2)
 
+The chart can however be adjusted to suit a user's preference by changing the time and chart type from the select options widgets above the chart area
+
+![stox5](https://github.com/Denno001/stox_desk/assets/121600705/3cbd0be4-9e2b-442e-b519-a0f703f68b50)
+![stox6](https://github.com/Denno001/stox_desk/assets/121600705/4f8aecf4-e2e2-4188-9aae-ef28868bbf9c)
+
 
