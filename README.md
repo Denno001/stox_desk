@@ -19,3 +19,9 @@ Education: stocks desk provides educational resources and tools to help users le
 The images below show the front page which includes a real time stocks market scanner, search box, ytd indices charts and market headlines(![stox1](https://github.com/Denno001/stox_desk/assets/121600705/d9175f57-4ebe-4e34-8c5d-3a630f861c74)
 (![stox2](https://github.com/Denno001/stox_desk/assets/121600705/2b05e819-4712-45b0-9214-9acbf61d1b22)
 
+## Ticker Search
+This can be done by entereing a ticker symbol of US listed company in the search ticker input below the app logo. Once a ticker is loaded succesfully: the app returns a candlestick chart of the company plus other fundamental data
+![stox3](https://github.com/Denno001/stox_desk/assets/121600705/d4b68f0e-a0f7-401a-bfc4-c0fa50e9788d)
+![stox4](https://github.com/Denno001/stox_desk/assets/121600705/909e5a65-7a7a-421a-9dd2-bfb1fea2e7a2)
+
+
