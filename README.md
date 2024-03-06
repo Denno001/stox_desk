@@ -20,7 +20,9 @@ The images below show the front page which includes a real time stocks market sc
 (![stox2](https://github.com/Denno001/stox_desk/assets/121600705/2b05e819-4712-45b0-9214-9acbf61d1b22)
 
 ## Ticker Search
-This can be done by entereing a ticker symbol of US listed company in the search ticker input below the app logo. Once a ticker is loaded succesfully: the app returns a candlestick chart of the company plus other fundamental data
+This can be done by entering a ticker symbol of US listed company in the search ticker input below the app logo. Once a ticker is loaded succesfully: the app returns a candlestick chart of the company plus other fundamental data including listing infomation like name, industry, sector, daily price change among other data.
+
+Below the fundamental data, is the company profile with a brief infomation of the company and beside it is specific company news for the ticker.
 ![stox3](https://github.com/Denno001/stox_desk/assets/121600705/d4b68f0e-a0f7-401a-bfc4-c0fa50e9788d)
 ![stox4](https://github.com/Denno001/stox_desk/assets/121600705/909e5a65-7a7a-421a-9dd2-bfb1fea2e7a2)
 
