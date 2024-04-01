@@ -91,7 +91,7 @@ latest_diff = ytd_diff.tail(1)
 #latest_diff
 
 #..getting scanner data top gainers vs top losers
-url = 'https://thestockmarketwatch.com/markets/topstocks'
+url = 'https://thestockmarketwatch.com/markets/pre-market/today.aspx'
 
 response = requests.get(url) #.send request to url
 soup = BeautifulSoup(response.content, 'html.parser') #.parse content
